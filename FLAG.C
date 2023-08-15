@@ -43,9 +43,3 @@ void main()
   }while(k<5);
   getch();
 }
-
-
-
-
-
-  //SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | BACKGROUND_GREEN);
